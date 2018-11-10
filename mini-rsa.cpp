@@ -1,4 +1,4 @@
-// C program for RSA asymmetric cryptographic algorithm.
+// C++ program for RSA asymmetric cryptographic algorithm.
 #include<stdio.h> 
 #include<math.h> 
 
